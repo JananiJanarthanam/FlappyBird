@@ -1,2 +1,2 @@
 # FlappyBird
-My first Unity project done within 2 days.
+My first Unity project done in a short period.
